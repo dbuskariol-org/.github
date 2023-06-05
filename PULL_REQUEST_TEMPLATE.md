@@ -1,3 +1,3 @@
 ### PULL REQUEST TEMPLATE
 
-<code> HEY! </code>
+<code> HEY! NEW </code>
